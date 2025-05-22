@@ -1,5 +1,5 @@
 import type menuType from "../types/menuType";
-import initComponent from "../types/initComponent";
+import type initComponent from "../types/initComponent";
 import { useEffect, useState } from "react";
 
 

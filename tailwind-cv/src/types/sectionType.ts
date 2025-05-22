@@ -1,4 +1,6 @@
-export default type sectionType {
+type sectionType {
     titleSection: string;
     paragraphSection: string;
 }
+
+export default sectionType;

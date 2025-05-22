@@ -1,3 +1,5 @@
-export default type qrCodeType {
+type qrCodeType {
     link: string;
 }
+
+export default qrCodeType;

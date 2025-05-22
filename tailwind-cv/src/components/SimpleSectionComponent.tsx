@@ -1,6 +1,6 @@
 import type sectionType from '../types/sectionType';
 
-const SimpleSectionComponent: React.FC<sectionType> = ({titleSection,paraghapSection}) => {
+const SimpleSectionComponent: React.FC<sectionType> = ({titleSection,paragraphSection}) => {
     return (
       <>
 <section id="chi-sono" className="bg-gray-100 dark:bg-gray-900 py-16">
@@ -18,7 +18,7 @@ const SimpleSectionComponent: React.FC<sectionType> = ({titleSection,paraghapSec
 
       <div className="mt-8 text-center">
         <p className="text-gray-600 dark:text-gray-400 mb-4">
-          {paraghapSection}
+          {paragraphSection}
         </p>
       </div>
     </div>
