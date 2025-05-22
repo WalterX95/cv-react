@@ -1,0 +1,38 @@
+[
+    {
+        "id":0,
+        "certName":"React",
+        "certDesc":"Sviluppo di interfacce dinamiche e componenti riutilizzabili.",
+        "imgCert":"/image/react.png"
+    },
+    {
+        "id":1,
+        "certName":"Angular",
+        "certDesc":"Creazione di applicazioni web complesse e scalabili.",
+        "imgCert":"/image/angularjs.webp"
+    },
+    {
+        "id":2,
+        "certName":"Tailwind CSS",
+        "certDesc":"Stilizzazione rapida e responsive con utility-first CSS..",
+        "imgCert":"/image/tailwind.png"
+    },
+    {
+        "id":3,
+        "certName":"C# / ASP.NET Core",
+        "certDesc":"Sviluppo back-end solido e sicuro per web application moderne.",
+        "imgCert":"/image/asp.png"
+    },
+    {
+        "id":4,
+        "certName":"Entity Framework & SQL Server",
+        "certDesc":"Gestione di database relazionali con .NET ORM avanzato.",
+        "imgCert":"/image/et-framwork.png"
+    },
+    {
+        "id":5,
+        "certName":"PHP 8 / CMS",
+        "certDesc":"Ottima conoscenza di WordPress, Joomla e sviluppo con PHP moderno.",
+        "imgCert":"/image/wordpress.png"
+    }
+]

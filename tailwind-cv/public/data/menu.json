@@ -1,0 +1,27 @@
+[
+    {
+        "id":0,
+        "route":"/",
+        "label":"Home"
+    },
+    {
+        "id":1,
+        "route":"/chi-sono",
+        "label":"Chi sono"
+    },
+    {
+        "id":2,
+        "route":"/competenze",
+        "label":"Competenze"
+    },
+    {
+        "id":3,
+        "route":"/progetti",
+        "label":"Progetti"
+    },
+    {
+        "id":4,
+        "route":"/Contatti",
+        "label":"Contatti"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "id":0,
+        "projectName":"E-Commerce Occhiali",
+        "projectDesc":"E-commerce con prova virtuale in 3D, filtri, carrello e gestione utenti."
+    },
+    {
+        "id":1,
+        "projectName":"Gestionale Biblioteca",
+        "projectDesc":"App .NET MVC Core per gestione libri, prestiti e notifiche email automatiche."
+    },
+    {
+        "id":2,
+        "projectName":"Portfolio Responsive",
+        "projectDesc":"Portfolio in HTML, Tailwind e JS moderno, con sezione dinamica dei progetti."
+    }
+]
