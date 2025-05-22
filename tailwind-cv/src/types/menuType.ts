@@ -1,5 +1,5 @@
 export default type  menuType {
-    id: number,
-    route: string,
-    label: string
+    id: number;
+    route: string;
+    label: string;
 }
