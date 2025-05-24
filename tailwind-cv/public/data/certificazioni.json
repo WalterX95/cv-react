@@ -3,36 +3,42 @@
         "id":0,
         "certName":"React",
         "certDesc":"Sviluppo di interfacce dinamiche e componenti riutilizzabili.",
-        "imgCert":"/image/react.png"
+        "imgCert":"/image/react.png",
+        "linkCert":"/certificazioni/cert-react.pdf"
     },
     {
         "id":1,
         "certName":"Angular",
         "certDesc":"Creazione di applicazioni web complesse e scalabili.",
-        "imgCert":"/image/angularjs.webp"
+        "imgCert":"/image/angularjs.webp",
+        "linkCert":"/certificazioni/cert-react.pdf"
     },
     {
         "id":2,
-        "certName":"Tailwind CSS",
+        "certName":"Tailwind CSS e Bootstrap e SASS",
         "certDesc":"Stilizzazione rapida e responsive con utility-first CSS..",
-        "imgCert":"/image/tailwind.png"
+        "imgCert":"/image/tailwind.png",
+        "linkCert":"/certificazioni/cert-sass-Bootstrap.pdf"
     },
     {
         "id":3,
         "certName":"C# / ASP.NET Core",
         "certDesc":"Sviluppo back-end solido e sicuro per web application moderne.",
-        "imgCert":"/image/asp.png"
+        "imgCert":"/image/asp.png",
+        "linkCert":"/certificazioni/cert-asp.pdf"
     },
     {
         "id":4,
         "certName":"Entity Framework & SQL Server",
         "certDesc":"Gestione di database relazionali con .NET ORM avanzato.",
-        "imgCert":"/image/et-framwork.png"
+        "imgCert":"/image/et-framwork.png",
+        "linkCert":"/certificazioni/cert-sql.pdf"
     },
     {
         "id":5,
         "certName":"PHP 8 / CMS",
         "certDesc":"Ottima conoscenza di WordPress, Joomla e sviluppo con PHP moderno.",
-        "imgCert":"/image/wordpress.png"
+        "imgCert":"/image/wordpress.png",
+        "linkCert":"/certificazioni/cert-react.pdf"
     }
 ]

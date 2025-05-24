@@ -36,7 +36,7 @@ const CardComponent: React.FC<initComponent> = ({initTitle}) => {
                              <h3 className="text-xl font-bold mb-2">{ce.certName}</h3>
                              <p className="text-gray-700 dark:text-gray-300">{ce.certDesc}</p>
                         </div>
-                        <a href="#" target="_blank" className="mt-4 text-center inline-block bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700 transition">Visualizza certificato</a>
+                        <a href={ce.linkCert} target="_blank" className="mt-4 text-center inline-block bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700 transition">Visualizza certificato</a>
                     </div>  
                     ))}
                  </div>
